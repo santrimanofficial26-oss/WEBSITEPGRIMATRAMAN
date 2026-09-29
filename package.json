@@ -1,0 +1,17 @@
+{
+  "name": "website-pgri-matraman",
+  "version": "1.0.0",
+  "description": "Vercel Iframe Wrapper untuk Portal Resmi PGRI Cabang Matraman",
+  "private": true,
+  "scripts": {
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "pgri",
+    "matraman",
+    "portal-guru",
+    "vercel-iframe"
+  ],
+  "author": "PGRI Cabang Matraman",
+  "license": "MIT"
+}
